@@ -1,0 +1,35 @@
+{
+  "version": "2.0",
+  "developers": [
+    "1012552248938729502"
+  ],
+  "auth": [
+    "1012552248938729502",
+    "1046128120895377438",
+    "1166740452570042492"
+  ],
+  "devnames": [
+    "hatebeingsobercereal"
+  ],
+  "support": "https://discord.gg/kDKMcweS6Y",
+  "errorLogs": "1287315623549861888",
+  "maintenance": false,
+  "prefix_commands": {
+    "enabled": true,
+    "default_prefix": "!"
+  },
+  "slash_commands": {
+    "enabled": true,
+    "global": true,
+    "test_guild_id": "1051633543752724602"
+  },
+  "status": {
+    "enabled": true,
+    "statuses": [
+      "{prefix}help",
+      "discord.gg/madrid",
+      "discord.gg/cereal"
+    ],
+    "display_time": 10
+  }
+}
